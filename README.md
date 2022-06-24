@@ -12,11 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-<<<<<<< HEAD
-![image](./design/desktop-design.jpg)
-=======
 ![](./design/desktop-design.jpg)
->>>>>>> aaac3f7abf4b3db5b524f864bfce0d1373ccfc16
 
 ### Links
 
