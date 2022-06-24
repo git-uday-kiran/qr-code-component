@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![image](/assignments/qr-code-component/design/desktop-design.jpg)
+![image](./design/desktop-design.jpg)
 
 ### Links
 
@@ -40,6 +40,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     color: hsl(218, 44%, 22%);
     font-weight: 700;
   }
-  
+
 </style>
 ```
